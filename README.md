@@ -6,3 +6,4 @@ For the implementation we use the dataset that have 7 main labels: AIMS (A), Par
 
 The above labels are used for the PICO detection in clinical texts. 
 
+When opening the .ipynb file in the environment, the .txt files need to be added as well
